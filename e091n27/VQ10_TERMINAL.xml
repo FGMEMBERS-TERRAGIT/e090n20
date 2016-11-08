@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+<path>VQ10_TERMINAL.ac</path>
+<!-- published 01.08.2014      - by Andre B.  -->
+<!-- VQ10 model photo template - by Slavek P. -->
+<!-- model of terminal is based on airport layout 07/2014 -->
+<model><path>Models/Transport/hatchback_red.ac</path>
+<offsets>
+<x-m>32.1748</x-m>
+<y-m>-12.90097</y-m>
+<z-m>67.53</z-m>
+<pitch-deg>0.00</pitch-deg>
+<heading-deg>285.00</heading-deg>
+</offsets>
+</model>
+<model><path>Models/Transport/van_blue_dirty.ac</path>
+<offsets>
+<x-m>45.0148</x-m>
+<y-m>-10.90097</y-m>
+<z-m>67.53</z-m>
+<pitch-deg>0.00</pitch-deg>
+<heading-deg>52.00</heading-deg>
+</offsets>
+</model>
+<model><path>Models/Transport/hatchback_silver.ac</path>
+<offsets>
+<x-m>37.0948</x-m>
+<y-m>-13.90097</y-m>
+<z-m>67.53</z-m>
+<pitch-deg>0.00</pitch-deg>
+<heading-deg>90.00</heading-deg>
+</offsets>
+</model>
+<model><path>Models/Boundaries/CrowdBarrier.xml</path>
+<offsets>
+<x-m>29.0948</x-m>
+<y-m>20.90097</y-m>
+<z-m>67.53</z-m>
+<pitch-deg>0.00</pitch-deg>
+<heading-deg>100.00</heading-deg>
+</offsets>
+</model>
+<model><path>Models/Boundaries/CrowdBarrier.xml</path>
+<offsets>
+<x-m>32.0948</x-m>
+<y-m>22.90097</y-m>
+<z-m>67.53</z-m>
+<pitch-deg>0.00</pitch-deg>
+<heading-deg>140.00</heading-deg>
+</offsets>
+</model>
+</PropertyList>
